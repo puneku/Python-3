@@ -20,3 +20,5 @@ decorated.sort()
 print( "sorted :", decorated)
 undecorated = [student for grade, i, student in decorated]
 print("original sorted form :", undecorated)
+
+#Implementation of sorted() and sort()
